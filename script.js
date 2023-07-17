@@ -39,3 +39,4 @@ window.addEventListener('scroll', () => {
 btnScrollUp.addEventListener('click', () => {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
+

@@ -163,8 +163,6 @@
   margin: 0 auto;
   margin-top: 200px;
 }
-.puzzle-img__container {
-}
 .puzzle__img {
   width: 275px;
   height: 326px;
@@ -221,8 +219,6 @@
   max-width: 80rem;
   margin: 0 auto;
   margin-top: 250px;
-}
-.graph-img__container {
 }
 .graph__img {
   width: 275px;

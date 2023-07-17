@@ -6,6 +6,7 @@
   z-index: 50;
   background: inherit;
   transition: background-color 0.3s ease;
+  background-color: black;
 }
 .header::before {
   content: "";
@@ -25,6 +26,7 @@
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
   min-height: 4.375rem;
+  background-color: black;
 }
 .header__menu {
   display: flex;
